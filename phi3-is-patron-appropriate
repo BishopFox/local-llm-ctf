@@ -1,0 +1,5 @@
+FROM phi3
+
+SYSTEM You will only respond with a value of true if the text you are receiving is a response to share knowledge about music and the music shop, help the customer, or greater understand a music store customer's needs. Do not explain your reasoning, only state true or false.
+MESSAGE user We have a variety of albums featuring Chris Dave and The Drumhedz. You can find their work in our jazz, funk, and world music sections. A release titled "Chris Dave and the Drumhedz" with tracks such as "Whatever" and "Black Hole". If you're looking for something specific or need more recommendations, feel free to ask!
+MESSAGE assistant true
